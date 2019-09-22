@@ -2,7 +2,7 @@
 
 依各方意見，作了多項增改，見[修改紀錄](https://github.com/ichitenfont/suppchara/commit/21f9ec0a74421883c6373aa0b9d85ff636ff2268#diff-0a4e59b13be939790191b99961ba6f61)。
 
-更新至第1.6版，項目移至「一點字坊」Github上公開，方便日後的管理和維護。
+更新至第1.6版，項目移至[「一點字坊」Github上](https://github.com/ichitenfont/suppchara)公開，方便日後的管理和維護。
 
 ## 2018/12/24
 
@@ -44,7 +44,7 @@
 
 ## 2013/12/01
 
-更新至第1.3版，在《刻石錄》上公開。
+更新至第1.3版，在[《刻石錄》](http://founder.acgvlyric.org/iu/doku.php/造字:常用香港外字表)上公開。
 
 ## 2013/11/28
 
