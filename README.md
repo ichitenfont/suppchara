@@ -71,4 +71,4 @@ Big5碼乃臺灣產物，用於香港，則缺「香港字」——實即「粵�
 * 編製：內木一郎
 
 ## 版權
-* 本作品以Creative Commons 署名 4.0授權條款授權。
+* 本作品以[Creative Commons 署名 4.0授權條款](License.md)授權。
